@@ -7,6 +7,12 @@ The bulk of the information will be kept as Issues, that will also populate a [w
 
 Please feel free to add issues with questions, suggestions, user stories etc. Its generally considered polite to not edit other peoples' issues or comments, but you may suggest edits in comments.
 
+There is a quick intro to issues at https://github.com/psu-libraries/library_data_services_model/wiki/Basic-Issues
+
+I have a preliminary structure for user stories in the issues at https://github.com/psu-libraries/library_data_services_model/wiki/User-Stories.
+
+There is also a User Story template in the backlog at our waffle.io page https://waffle.io/psu-libraries/library_data_services_model.
+
 ## Files
 
 Supplemental files can be stored in traditional Git repository (i.e. the Committe Charge is there). 
