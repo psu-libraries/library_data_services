@@ -7,7 +7,7 @@ The bulk of the information will be kept as Issues, that will also populate a [w
 
 ### Developing the Library Services Model
 
-We are using a Problem Scenario based approach to developing our services model involving several stages. Personas, Problems, Solutions, Solution Review and Implementation.
+We are using a Problem Scenario based approach to developing our services model involving several stages. Personas, Problems, Solutions, Solution Review and Implementation. This is essentially a modified Agile form of project management. In traditional Agile, the project team usually creates a backlog (list) of potential features often in the form of short user stories. The problem scenario approach focuses more on problems, which often can be complex, then provides one or more solutions. In the Agile development world, problems might often be called **epics** whereas the solutions would correspond more to **user stories**. 
 
 
 #### Personas
@@ -19,6 +19,7 @@ Based on the personas we generate problems based on the personas. While most of 
 To create a problem open an issue and desribe the issue using a persona as the source. Create a link in the problem. Describe the problem in as much detail as necessary. Add a **Relevant Personas** section when appropriate listing other personas where this problem might apply. It need not be exhaustive. The intent is to provide a context whereby we can market and assess the solutions.
 
 #### Solutions
+Solutions are proposed ways to address the problems. The solution need not initially be fully planned out, although at implementation there should be enough there to implement. Also, not all solutions need be implemented. The goal is to use them as ideas that may be inmplemented. The next section describes the process to start scoring potential solutions. In some cases a solution may be a significant project in its own that requires more in planning and documentation that a single solution issue can fit. 
 
 
 
@@ -26,9 +27,6 @@ Please feel free to add issues with questions, suggestions, user stories etc. It
 
 There is a quick intro to issues at https://github.com/psu-libraries/library_data_services_model/wiki/Basic-Issues
 
-I have a preliminary structure for user stories in the issues at https://github.com/psu-libraries/library_data_services_model/wiki/User-Stories.
-
-There is also a User Story template in the backlog at our waffle.io page https://waffle.io/psu-libraries/library_data_services_model.
 
 ## Files
 
