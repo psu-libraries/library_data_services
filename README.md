@@ -1,4 +1,4 @@
-# Library Services Model
+# Library Services
 
 This repository is for the Library Data Services Team to develop a services model for the library. The information is kept in three areas, Issues, Files, Wiki. The README here should serve as an overview and quick reference.
 
